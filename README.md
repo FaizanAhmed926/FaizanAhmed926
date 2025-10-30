@@ -6,11 +6,10 @@ Pursuing Computer Science Engineering at Techno International Batanagar | Java �
 Skilled in Java, Python, React.js, Node.js, Express.js, and MongoDB, I enjoy developing scalable web applications and exploring the latest technologies in software development.
 Email Me 👉 ✉️ **faizanahmedcodex@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 👨🏻‍💼 **I’m currently Intern at:** socilabs
+- 👨🏻‍💼 **I’m currently Intern at:** Socilabs
 - 🌱 **I’m currently learning:** Data Science with Generative AI
 - 👨‍💻 Actively solving problems on LeetCode to improve my problem-solving and algorithmic skills.🔗 LeetCode: https://leetcode.com/u/Faizan_Ahmed926/
-- 🤔 **I’m looking for help with:** Your project here
-- 📫 **How to reach me:** Enter your email here
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_ahmed926) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizanahmed926) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanahmedcodex@gmail.com) 
 
