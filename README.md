@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **faizanahmedcodex@gmail.com** For Collaboration/Project or
 
 - 👨🏻‍💼 **I’m currently Intern at:** Socilabs
 - 🌱 **I’m currently learning:** Data Science with Generative AI
-- 👨‍💻 Actively solving problems on LeetCode to improve my problem-solving and algorithmic skills.  🔗LeetCode: <a href="https://www.leetcode.com/faizan_ahmed926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faizan_ahmed926" height="18" width="20" /></a>
+- 👨‍💻 Actively solving problems on LeetCode to improve my problem-solving and algorithmic skills.  🔗LeetCode: <a href="https://www.leetcode.com/faizan_ahmed926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faizan_ahmed926" height="20" width="35" /></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_ahmed926) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizanahmed926) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanahmedcodex@gmail.com) 
